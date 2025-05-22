@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for buildi
 Here are a few projects I've worked on:
 
 - [IEEE-GTBIT-SB](https://github.com/jas001469/IEEE-GTBIT-SB): Official website for IEEE GTBIT Student Branch.
-- [jas-portfolio](https://github.com/jas001469/jas-portfolio): My personal portfolio showcasing my projects and skills.
+- [portfolio](https://github.com/jas001469/jas-portfolio): My personal portfolio showcasing my projects and skills.
 - [fullStack-Chat-App](https://github.com/jas001469/fullStack-Chat-App): A real-time chat application built with full-stack technologies.
 - [ToDoList-API](https://github.com/jas001469/ToDoList-API): A RESTful API for a to-do list application with user authentication.
 - [Camp-Quest](https://github.com/jas001469/Camp-Quest): A comprehensive camping site booking application.
