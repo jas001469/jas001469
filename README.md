@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for buildi
 
 Here are a few projects I've worked on:
 
-- [Job-Portal](https://job-portal-frontend-nu-orcin.vercel.app/): Official website for IEEE GTBIT Student Branch.
+- [Job-Portal](https://job-portal-frontend-nu-orcin.vercel.app/): Job Portal.
 - [IEEE-GTBIT-SB](https://ieeegtbit.com/): Official website for IEEE GTBIT Student Branch.
 - [portfolio](https://github.com/jas001469/jas-portfolio): My personal portfolio showcasing my projects and skills.
 - [fullStack-Chat-App](https://github.com/jas001469/fullStack-Chat-App): A real-time chat application built with full-stack technologies.
